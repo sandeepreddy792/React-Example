@@ -1,6 +1,5 @@
 import React from 'react';
 import classes from './Layout.module.css';
-//import './Layout.css'
 import Aux from '../../hoc/Auxilary';
 
 
